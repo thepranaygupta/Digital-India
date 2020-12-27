@@ -23,4 +23,4 @@ This is a responsive website on the topic Digital India created using HTML, CSS 
 ![screenshot](screenshots/h.png)
 ![screenshot](screenshots/i.png)
 
-###Thanks
+### Thanks
