@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+body {
+    margin-top: 85px;
+    background-color: rgb(223, 236, 163);
+}
+
+.heading {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+h1 {
+    padding: 2%;
+    font-size: 60px;
+    color: rgb(30, 58, 110);
+    font-family: Ubuntu;
+    font-family: lucida;
+    text-decoration: underline overline 2px blueviolet;
+    font-weight: 500;
+    text-underline-position: below;
+    text-shadow: 2px 3px rgba(0, 0, 0, 0.2);
+
+}
+
+h2 {
+    font-size: 30px;
+    font-family: Ubuntu;
+    font-weight: 500;
+    color: black;
+    text-decoration: underline blueviolet 3px;
+    text-underline-position: below;
+    text-shadow: 2px 2px rgba(0, 0, 0, 0.192);
+
+}
+
+#belowh {
+    width: 820px;
+    height: 367px;
+    margin-bottom: 40px;
+    position: relative;
+}
+
+#belowhvaa {
+    width: 600px;
+    height: 367px;
+    margin-bottom: 40px;
+}
+
+#para {
+    font-size: 20px;
+    text-align: justify;
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+span {
+    font-weight: bold;
+    color: rgb(85, 26, 139);
+}
+
+.col-sm-3 {
+    font-size: 20px;
+    position: relative;
+}
+
+.col-sm-9 {
+    font-size: 20px;
+    font-style: italic;
+}
+
+.row {
+    margin: 10px;
+    margin-top: 0px;
+}
